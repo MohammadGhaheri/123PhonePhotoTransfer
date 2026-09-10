@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+adb_path.txt
+*.part
+.phone_photo_transfer.sqlite3
+.DS_Store
+Thumbs.db
